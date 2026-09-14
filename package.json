@@ -62,6 +62,7 @@
     "uuid": "^8.3.2"
   },
   "main": "index.js",
+  "types": "index.d.ts",
   "typescript": {
     "definitions": "index.d.ts"
   },
